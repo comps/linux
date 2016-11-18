@@ -62,3 +62,11 @@
 &ohci2 {
 	status = "okay";
 };
+
+&i2c0 {
+	status = "okay";
+};
+
+&emac {
+	status = "okay";
+};
